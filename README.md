@@ -1,16 +1,10 @@
-# React + Vite
+This project is a simple Body Mass Index (BMI) Calculator developed using React.js. 
+It allows users to enter their height and weight to calculate their BMI value instantly.
+Based on the calculated BMI, the application displays the corresponding health category such as Underweight, Normal weight, Overweight, or Obese. The project is designed with a clean and simple user interface for easy understanding and usage.
+This application is built using React.js for the frontend, JavaScript for logic implementation, and CSS for styling.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="483" height="433" alt="image" src="https://github.com/user-attachments/assets/5a716b0d-3c0e-44ee-bc4b-fc763738355c" />
+<img width="347" height="468" alt="image" src="https://github.com/user-attachments/assets/01434339-fe2c-4c06-949f-8c538a547551" />
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
